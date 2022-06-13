@@ -2,9 +2,8 @@ from manim import *
 from scipy.io import wavfile
 
 
-class StatRap(MovingCameraScene):
+class StatRap(Scene):
     def construct(self):
-        self.camera.background_color = WHITE
         rate, data = wavfile.read('Stat_rap.wav')
         data = data[0:10]
         values = data[:, 0]

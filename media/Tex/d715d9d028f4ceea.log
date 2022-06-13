@@ -2,8 +2,8 @@ This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded forma
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
-**media/Tex/e96af713c716faaa.tex
-(./media/Tex/e96af713c716faaa.tex
+**media/Tex/d715d9d028f4ceea.tex
+(./media/Tex/d715d9d028f4ceea.tex
 LaTeX2e <2022-06-01> pre-release-0 (develop 2022-6-12 branch)
 L3 programming layer <2022-06-02> (/home/gitpod/.TinyTeX/texmf-dist/tex/latex/standalone/standalone.cls
 Document Class: standalone 2018/03/26 v1.3a Class to compile TeX sub-files standalone
@@ -293,8 +293,8 @@ Package microtype Info: Loading configuration file microtype.cfg.
 (/home/gitpod/.TinyTeX/texmf-dist/tex/latex/microtype/microtype.cfg
 File: microtype.cfg 2022/03/14 v3.0d microtype main configuration file (RS)
 ))
-No file e96af713c716faaa.aux.
-\openout1 = `e96af713c716faaa.aux'.
+No file d715d9d028f4ceea.aux.
+\openout1 = `d715d9d028f4ceea.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -377,7 +377,7 @@ LaTeX Font Info:    Trying to load font information for U+wasy on input line 26.
 File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
 )
 Preview: Tightpage 0 0 0 0
-[1] (media/Tex/e96af713c716faaa.aux) ) 
+[1] (media/Tex/d715d9d028f4ceea.aux) ) 
 Here is how much of TeX's memory you used:
  8530 strings out of 480001
  134754 string characters out of 5888264
@@ -387,4 +387,4 @@ Here is how much of TeX's memory you used:
  14 hyphenation exceptions out of 8191
  72i,9n,77p,1023b,235s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on media/Tex/e96af713c716faaa.dvi (1 page, 1656 bytes).
+Output written on media/Tex/d715d9d028f4ceea.dvi (1 page, 1660 bytes).
