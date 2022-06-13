@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full
+FROM gitpod/workspace-base
 
 RUN sudo install-packages ffmpeg libcairo2-dev libpango1.0-dev
 RUN pip install manim
