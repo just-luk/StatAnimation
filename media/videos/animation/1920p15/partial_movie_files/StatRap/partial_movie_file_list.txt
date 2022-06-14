@@ -1,0 +1,7 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/lukegriffith/Downloads/manim/media/videos/animation/1920p15/partial_movie_files/StatRap/1482814596_2787143610_181790929.mp4'
+file 'file:C:/Users/lukegriffith/Downloads/manim/media/videos/animation/1920p15/partial_movie_files/StatRap/3835829519_3097262117_2421501159.mp4'
+file 'file:C:/Users/lukegriffith/Downloads/manim/media/videos/animation/1920p15/partial_movie_files/StatRap/3835829519_3097262117_756449101.mp4'
+file 'file:C:/Users/lukegriffith/Downloads/manim/media/videos/animation/1920p15/partial_movie_files/StatRap/3835829519_3097262117_1780471231.mp4'
+file 'file:C:/Users/lukegriffith/Downloads/manim/media/videos/animation/1920p15/partial_movie_files/StatRap/3835829519_3097262117_3204106269.mp4'
+file 'file:C:/Users/lukegriffith/Downloads/manim/media/videos/animation/1920p15/partial_movie_files/StatRap/3835829519_3097262117_1819659094.mp4'
